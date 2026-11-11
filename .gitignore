@@ -4,4 +4,4 @@ bin/
 out/
 build/
 *.log
-.DS_Store
+.DS_Store*.iml
